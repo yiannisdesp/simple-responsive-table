@@ -1,6 +1,6 @@
-### A simple jQuery plugin which helps you to create a clean responsive table especially when the table comes from a content editor.  
+### A simple jQuery plugin which helps you to create a clean responsive table especially when the table comes from a content editor.    
 ---
-  
+  *Credits for the styling goes to [Matt Smith](https://codepen.io/AllThingsSmitty/pen/MyqmdM) pen*
 #### Example:
 ```
 <div class="has-responsive-table">
@@ -9,20 +9,14 @@
 			<tr>
 				<td></td>
 				<td></td>
-				<td></td>
-				<td></td>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td></td>
 				<td></td>
-				<td></td>
-				<td></td>
 			</tr>
 			<tr>
-				<td></td>
-				<td></td>
 				<td></td>
 				<td></td>
 			</tr>
